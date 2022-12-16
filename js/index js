@@ -1,0 +1,12 @@
+let arkham = ["Joker", "Riddler", "Harley", "Bane", "Hush"]
+
+function myArkham(){
+
+for (let i = 0; i < arkham.length; i++) {
+
+console.log(arkham[i])
+}
+}
+
+
+myArkham()
